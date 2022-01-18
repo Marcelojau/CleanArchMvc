@@ -1,0 +1,15 @@
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.deps.json
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\ref\CleanArchMvc.Application.dll
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
+C:\Users\Comp_Desenvolvimento\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
